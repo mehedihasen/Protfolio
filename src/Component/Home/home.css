@@ -1,0 +1,31 @@
+
+   /* .color {
+    background: linear-gradient(
+        217deg
+         ,#4c067a .01% , #4d1cd3 100.01%);
+    font-size: 20px;
+    
+} */
+/* .color {
+    width: 100%;
+    height:100%;
+  }
+  
+  .color {
+      background: linear-gradient(-45deg, #2e193b, #281e42, #09062e, #050230);
+      background-size: 400% 400%;
+   
+      animation: gradient 40s ease infinite;
+  }  
+  
+  @keyframes gradient {
+      0% {
+          background-position: 0% 50%;
+      }
+      50% {
+          background-position: 100% 50%;
+      }
+      100% {
+          background-position: 0% 50%;
+      }
+  } */
